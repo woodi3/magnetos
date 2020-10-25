@@ -1,0 +1,23 @@
+{
+  "name": "magnetos",
+  "version": "1.0.0",
+  "description": "Command line tool that generates project directories using templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodi3/magnetos.git"
+  },
+  "author": "Alex Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodi3/magnetos/issues"
+  },
+  "homepage": "https://github.com/woodi3/magnetos#readme",
+  "dependencies": {
+    "prompts": "^2.3.2",
+    "yargs": "^16.1.0"
+  }
+}
